@@ -1,16 +1,9 @@
 # kicks
 
-A new Flutter project.
+Aplikasi dapat dipakai menggunakan Dark Mode dan Light Mode.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*OnBoarding Screen
+![image](https://github.com/alversonn/MobileProg/assets/114342945/b1bcae5c-537e-4a29-873f-be85c242e4d9)
