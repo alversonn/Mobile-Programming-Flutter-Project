@@ -3,7 +3,7 @@
 
 Aplikasi dapat dipakai menggunakan Dark Mode dan Light Mode.
 
-## Getting Started
+## Implementasi
 
 *OnBoarding Screen
 
